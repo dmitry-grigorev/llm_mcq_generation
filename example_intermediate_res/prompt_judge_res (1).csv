@@ -1,0 +1,7 @@
+,Prompt,Context correspondence,Term correspondence,Answer correctness,Bloom correspondence
+0,Remember_0shot,95.0,97.0,95.0,95.0
+1,Remember_1shot,94.9,96.94,100.0,94.9
+2,Comprehension_0shot,98.0,99.0,96.0,98.0
+3,Comprehension_fewshot,98.0,100.0,97.0,98.0
+4,Application_0shot,95.0,96.0,96.0,95.0
+5,Application_1shot,96.0,97.0,97.0,96.0
