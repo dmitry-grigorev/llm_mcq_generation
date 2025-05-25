@@ -13,3 +13,5 @@ As example, for one book the intermediate results of the whole process of genera
 - The resulted MCQ collection generated on the selected term-context pairs.
 
 Interface for MCQ is made by means of [gradio](https://www.gradio.app/docs/python-client/introduction) .
+The interface screenshot:
+![plot](./example_intermediate_res/mcq_example.png)
